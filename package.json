@@ -1,0 +1,10 @@
+{
+  "name": "reda-2025-metagenomics-dashboard",
+  "version": "0.1.0",
+  "description": "Browser-based dashboard for metagenomics cohorts and tracking metrics.",
+  "author": "Red@",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  }
+}
