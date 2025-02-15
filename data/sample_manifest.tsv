@@ -1,3 +1,4 @@
 sample	status	group
 metagenomics-dashboard-01	ready	control
 metagenomics-dashboard-02	review	case
+metagenomics-dashboard-03	queued	validation
